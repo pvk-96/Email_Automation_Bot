@@ -1,4 +1,5 @@
-# Email_Automation_Bot# Email Automation & Tracking Tool
+# Email_Automation_Bot#
+# Email Automation & Tracking Tool
 
 **A polished GUI app for personalized bulk emailing (coming soon!).**
 
