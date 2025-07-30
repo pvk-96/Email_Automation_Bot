@@ -1,0 +1,9 @@
+Subject: Test For the Email Automation App
+
+Hello {name},
+
+I hope you're doing well! I wanted to reach out about This app that I made.
+It is for E-mail Automation...
+
+Best regards,
+PVK (Praneeth Varma Kopperla- praneethvarmakopperla@gmail.com)
