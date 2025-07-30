@@ -17,7 +17,7 @@ A modern, professional Python app to send **personalized bulk emails** with sche
 
 | Contacts Management | Template Editor | Scheduler | File Selection |
 |--------------------|----------------|-----------|---------------|
-| ![Contacts](email_tool/ss/contacts.png) | ![Template](email_tool/ss/template.png) | ![Scheduler](email_tool/ss/scheduler.png) | ![File Selection](email_tool/ss/file-selection.png) |
+| ![Contacts](ss/contacts.png) | ![Template](ss/template.png) | ![Scheduler](ss/scheduler.png) | ![File Selection](ss/file-selection.png) |
 
 ---
 
