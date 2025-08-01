@@ -2,8 +2,7 @@ Subject: Test For the Email Automation App
 
 Hello {name},
 
-I hope you're doing well! I wanted to reach out about This app that I made.
-It is for E-mail Automation...
-
+I hope you're doing well! 
+I am doin well too. You can connect with me on GitHub.
 Best regards,
 PVK (Praneeth Varma Kopperla- praneethvarmakopperla@gmail.com)
