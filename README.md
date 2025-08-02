@@ -1,4 +1,4 @@
-# 📤 Email Automation & Tracking Tool
+# 📤 Bulk E-mail Sender Tool
 
 A modern, professional Python app to send **personalized bulk emails** with scheduling, template editing, and contact management—all in a beautiful PyQt5 dark mode GUI.
 
